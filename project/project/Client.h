@@ -14,6 +14,6 @@ public:
 	std::string getSecond_Name();
 	void setPriority(int priority);
 	void setFirst_Name(std::string first_name);
-	void setSecond_Name(std::string second_name)
+	void setSecond_Name(std::string second_name);
 };
 
