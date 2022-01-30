@@ -24,7 +24,6 @@ private:
 public:
 	Printer();
 	void addTask(Client client, std::string task);
-	void removeTask(std::string task);
 	void showTasks();
 private:
 	void sortArray();
